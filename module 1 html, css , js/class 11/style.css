@@ -1,0 +1,93 @@
+/* selector => html ka element ko targrt kar ke rule ya css lagana
+ */
+/* 
+ selector {
+    properties: value
+ } */
+
+
+/* type selector */
+/* h1 {
+    color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    ;
+    font-weight: 600;
+    line-height: 10px;
+    font-size: 40px;
+ } */
+
+/* types of selector */
+
+/* id selector */
+#head1 {
+    color: red;
+}
+
+#head2 {
+    color: blue;
+}
+
+/* class selector */
+.para1 {
+    color: red;
+}
+
+.para2 {
+    color: green;
+}
+
+/* universal selector */
+/* specifity 0 */
+h4 {
+    color: red;
+}
+
+/* * {
+    color: blueviolet;
+
+} */
+
+/* h4 {
+    color: blue;
+} */
+
+ol {
+    color: blue;
+}
+
+/* #list2 {
+    color: red;
+} */
+
+p>span {
+    color: yellow;
+}
+
+ul>li {
+    color: green;
+}
+
+div p {
+    color: brown;
+}
+
+/* group selector */
+div,
+p {
+    color: beige;
+}
+
+body>p {
+    color: azure;
+}
+
+h1,
+h2,
+h3 {
+    color: bisque;
+}
+
+/* type selector */
+p {
+    color: red
+}

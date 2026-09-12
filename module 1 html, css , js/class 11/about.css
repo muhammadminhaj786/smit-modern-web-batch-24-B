@@ -1,0 +1,28 @@
+/* 
+p {
+    color: red;
+} */
+
+/* #para1 {
+    color: red;
+}
+
+#para2 {
+    color: red;
+} */
+
+.para1 {
+    color: red;
+}
+
+.para2 {
+    color: green;
+}
+
+p>span {
+    color: green;
+}
+
+#word {
+    color: yellow;
+}
