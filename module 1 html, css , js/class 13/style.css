@@ -1,0 +1,87 @@
+/* p { */
+/* font-size: 32px; */
+/* font-weight: bolder; */
+/* color: blueviolet; */
+/* letter-spacing: 2px; */
+/* word-spacing: 22px; */
+/* font-family: cursive 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+/* text-indent: 150px; */
+/* line-height: 2.5; */
+/* 1=16px */
+/* text-align: center; */
+/* text-transform: ; */
+
+/* } */
+
+/* h1 { */
+/* text-align: center; */
+/* horizontal */
+/* text-decoration: underline dashed; */
+/* text-decoration: line-through;
+    font-style: italic;
+    text-transform: capitalize; */
+/* text-shadow: horizontal vertical blur color; */
+/* text-shadow: 9px 30px 13px #588CCE; */
+
+/* } */
+/* 
+span {
+    vertical-align: top;
+} */
+
+/* psudeo class */
+/* a:hover {
+    color: green;
+} */
+
+/* h1:hover {
+    font-size: 40px;
+    color: red;
+} */
+/* 
+button:hover {
+    background-color: green;
+    color: red;
+    cursor: pointer;
+}
+
+#para1::first-letter {
+    color: red;
+    font-size: 40px;
+}
+
+#para1::first-line {
+    color: green;
+}
+
+a:link {
+    color: yellow;
+}
+
+a:visited {
+    color: purple;
+}
+
+input:focus {
+    color: red;
+    border: none;
+}
+
+a:active {
+    color: aqua;
+}
+
+a {
+    text-decoration: none;
+} */
+
+div {
+    height: 100px;
+    width: 100px;
+    /* border: width types  color; */
+    border: 4px solid green;
+}
+
+p {
+    border: 1px solid purple;
+}
