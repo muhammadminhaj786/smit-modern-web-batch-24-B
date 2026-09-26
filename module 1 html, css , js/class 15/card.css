@@ -1,0 +1,27 @@
+.card {
+    width: 280px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+
+.avatar {
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
