@@ -1,0 +1,75 @@
+img {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    margin: 0px auto;
+}
+
+.card {
+    width: 280px;
+    border: 2px solid gray;
+    border-radius: 28px;
+    margin: 20px auto;
+    box-shadow: 30px 28px 27px 5px #4F9CFF;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    border: none;
+    margin: 0px auto;
+    border-radius: 10px;
+
+
+}
+
+.btn1 {
+    background-color: cyan;
+    color: blue;
+}
+
+.btn2 {
+    background-color: greenyellow;
+    color: green;
+}
+
+h2 {
+    border: 1px solid black;
+}
+
+.btn {
+
+    width: 90px;
+    margin: 0px auto;
+    padding-bottom: 50px;
+}
+
+.avatar {
+    /* display: none; */
+    visibility: hidden;
+    height: 90px;
+    width: 90px;
+    margin: 10px auto;
+
+}
+
+ol {
+    /* list-style-type: lower-roman; */
+    list-style-position: inside;
+}
+
+ul {
+    list-style-type: circle;
+    list-style-position: inside;
+    /* list-style-image: url("https://img.magnific.com/free-vector/3d-metal-star-isolated_1308-117760.jpg?semt=ais_hybrid&w=740&q=80"); */
+}
+
+li {
+    width: 90px;
+}
