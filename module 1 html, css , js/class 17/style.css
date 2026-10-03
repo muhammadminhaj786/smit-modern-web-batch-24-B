@@ -1,0 +1,105 @@
+/* h1 {
+    color: aqua;
+}
+
+table {
+    border: 1px solid black;
+    width: 500px;
+    border-collapse: collapse;
+    text-transform: capitalize;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    color: green;
+    letter-spacing: 5px;
+}
+
+th {
+    border: 1px solid black;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+#para {
+    color: green;
+}
+
+th:hover {
+    color: green;
+} */
+
+/* table {
+    empty-cells: hide;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid black;
+    width: 200px;
+    height: 40px;
+} */
+
+/* table {
+    border: 1px solid black;
+    width: 500px;
+    border-collapse: collapse;
+    text-align: center;
+    border-spacing: 20px;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 15px;
+}
+
+thead th {
+    background-color: #333;
+}
+
+tbody th {
+    background-color: lightgray;
+}
+
+#gme {
+    background-color: lightgreen;
+    font-weight: 900;
+
+} */
+
+input {
+    padding: 10px;
+    /* height: 30px; */
+    width: 400px;
+    border-radius: 20px;
+    border: 2px solid black;
+    outline: none;
+    color: blue;
+    /* background-image: url("email2.jpg");
+    background-repeat: no-repeat; */
+}
+
+input:focus {
+    border: 2px solid red;
+}
+
+button {
+    height: 40px;
+    width: 180px;
+    border-radius: 20px;
+    border: none;
+    background-color: lightblue;
+    color: blue;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: aqua;
+    width: 200px;
+}
