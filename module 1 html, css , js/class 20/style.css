@@ -1,0 +1,65 @@
+.overlay {
+    width: 600px;
+    position: relative;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* 
+img {
+    width: 100%;
+} */
+
+.txt {
+    /* position: relative; */
+    position: absolute;
+    bottom: 0px;
+    color: black;
+    /* left: 100%; */
+    /* left: 420px; */
+    right: 0;
+}
+
+.card {
+    width: 180px;
+    background-color: beige;
+    padding: 12px;
+    border-radius: 10px;
+    position: relative;
+    /* margin: 0 auto; */
+
+}
+
+.card img {
+    width: 100%;
+}
+
+span {
+    background-color: red;
+    color: white;
+    padding: 4px;
+    border-radius: 2px;
+    /* position: relative; */
+    /* left: 150px; */
+    /* top: 12px; */
+    position: absolute;
+    /* right: 0; */
+    left: 170px;
+}
+
+.btn {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: blue;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.header {
+    height: 800px;
+    border: 1px solid black;
+}
