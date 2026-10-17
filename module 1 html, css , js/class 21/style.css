@@ -1,0 +1,105 @@
+/* .box {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    position: fixed;
+    bottom: 40px;
+    right: 20px;
+}
+
+.main {
+    height: 800px;
+    border: 1px solid black;
+}
+
+.nav {
+    height: 80px;
+    background-color: cadetblue;
+    position: sticky;
+    top: 0;
+}
+
+li {
+    list-style: none;
+    color: white;
+    float: left;
+    
+} */
+
+/* .box {
+    height: 100px;
+    width: 100px;
+
+
+} */
+
+/* .box1 {
+    background-color: red;
+}
+
+.box2 {
+    background-color: green;
+}
+
+.box3 {
+    background-color: blue;
+}
+
+.parent {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: space-evenly;
+    height: 500px;
+    align-items: center;
+} */
+
+/* ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+} */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main {
+    height: 800px;
+    border: 1px solid black;
+}
+
+.nav {
+    background-color: cadetblue;
+    display: flex;
+
+    justify-content: space-between;
+    padding: 8px 24px;
+    align-items: center;
+    position: sticky;
+    top: 0;
+}
+
+ul {
+    display: flex;
+    gap: 12px;
+    list-style: none;
+    color: white;
+
+}
+
+button {
+    height: 40px;
+    width: 180px;
+    background-color: cornflowerblue;
+    border: none;
+    border-radius: 12px;
+    color: white;
+}
+
+.logo {
+    color: white;
+    font-size: 24px;
+}
