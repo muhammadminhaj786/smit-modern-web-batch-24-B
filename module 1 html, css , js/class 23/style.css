@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+ul {
+    display: flex;
+    gap: 16px;
+    list-style: none;
+}
+
+li {
+    color: lab(27.1134% -.956401 -12.3224);
+    text-transform: capitalize;
+}
+
+.logo {
+    width: 160px;
+    height: 44px;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .1),
+        0 1px 2px -1px rgba(0, 0, 0, .1);
+    padding: 4px 16px;
+}
+
+.enroll-now {
+    background-color: rgb(32, 118, 238);
+    color: white;
+    text-decoration: none;
+    padding: 8px 20px;
+    border-radius: 50px;
+}
+
+.laptop {
+    width: 100px;
+    height: 90px;
+    top: 56px;
+    left: 90px;
+}
+
+.arrow-up {
+    width: 180px;
+    height: 90px;
+    top: 74px;
+    right: 70px;
+}
+
+.arrow-down {
+    width: 180px;
+    height: 90px;
+    bottom: 4px;
+    left: 80px;
+}
+
+.globe {
+    width: 90px;
+    height: 123px;
+    bottom: 20px;
+    right: 130px;
+}
+
+.say-logo {
+    width: 160px;
+    height: 36px;
+}
+
+.hero {
+    text-align: center;
+    width: 1000px;
+    margin: 20px auto;
+    position: relative;
+    padding: 20px 40px;
+    height: 340px;
+
+}
+
+.icn {
+    position: absolute;
+}
+
+.hero h1 {
+    font-size: 74px;
+    margin-top: 30px;
+}
+
+.hero span {
+    color: #2076EE;
+}
+
+.hero p {
+    margin: 20px 0;
+    color: #686868;
+}
+
+.primary {
+    padding: 10px 24px;
+    background-color: #2076EE;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    text-transform: uppercase;
+}
+
+.secondry {
+    padding: 10px 24px;
+    background-color: white;
+    text-transform: uppercase;
+    border-radius: 50px;
+    color: lab(27.1134% -.956401 -12.3224);
+    border: 1px solid lab(27.1134% -.956401 -12.3224);
+}
+
+.btns {
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
