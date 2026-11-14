@@ -1,0 +1,9 @@
+
+1)signup with github
+2) create new repo
+3)git dpwnload
+https://git-scm.com/install/windows
+4) git init 
+git config --global user.name apkagithubname
+git config --global user.email apkagithubemail
+git add .
