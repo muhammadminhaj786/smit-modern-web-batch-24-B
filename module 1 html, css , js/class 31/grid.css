@@ -56,3 +56,16 @@ footer {
     background-color: maroon;
     grid-column: 1 / -1;
 }
+
+.box10 {
+    height: 400px;
+    width: 400px;
+    background-color: green;
+}
+
+@media screen and (min-width: 380px) and (max-width: 467px) {
+    .box10 {
+        background-color: black;
+    }
+}
+
